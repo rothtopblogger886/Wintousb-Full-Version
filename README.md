@@ -238,4 +238,4 @@ This repository serves as the official landing page for WinToUSB. The software i
 **Get the most recent version of WinToUSB today!**
 
 ---
-**Last updated:** 2026-10-24 13:04:29 UTC
+**Last updated:** 2026-10-24 17:10:50 UTC
